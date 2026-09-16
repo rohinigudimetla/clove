@@ -1,8 +1,8 @@
-package com.rohini.queue.controller;
+package com.rohini.clove.controller;
 
-import com.rohini.queue.dto.JobRequest;
-import com.rohini.queue.model.Job;
-import com.rohini.queue.service.JobService;
+import com.rohini.clove.dto.JobRequest;
+import com.rohini.clove.model.Job;
+import com.rohini.clove.service.JobService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

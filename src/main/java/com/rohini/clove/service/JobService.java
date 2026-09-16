@@ -1,8 +1,8 @@
-package com.rohini.queue.service;
+package com.rohini.clove.service;
 
-import com.rohini.queue.model.Job;
-import com.rohini.queue.model.JobStatus;
-import com.rohini.queue.repository.JobRepository;
+import com.rohini.clove.model.Job;
+import com.rohini.clove.model.JobStatus;
+import com.rohini.clove.repository.JobRepository;
 import org.springframework.stereotype.Service;
 
 import java.time.OffsetDateTime;

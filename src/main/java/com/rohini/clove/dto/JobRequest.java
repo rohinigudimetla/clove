@@ -1,4 +1,4 @@
-package com.rohini.queue.dto;
+package com.rohini.clove.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

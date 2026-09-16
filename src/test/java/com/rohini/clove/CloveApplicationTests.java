@@ -1,10 +1,10 @@
-package com.rohini.queue;
+package com.rohini.clove;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class QueueApplicationTests {
+class CloveApplicationTests {
 
 	@Test
 	void contextLoads() {
