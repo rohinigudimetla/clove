@@ -34,5 +34,20 @@ public class Job {
     String resultKey;
     Integer durationMs;
     Instant failedAt;
+    public Long getId() {
+        return id;
+    }
+
+    public String getJobType() {
+        return jobType;
+    }
+
+    public String getPayload() {
+        return payload;
+    }
+
+    public int getAttemptsMade() {
+        return attemptsMade;
+    }
 
 }
